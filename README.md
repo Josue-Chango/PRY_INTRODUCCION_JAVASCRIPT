@@ -1,1 +1,3 @@
 # PRY_INTRODUCCION_JAVASCRIPT
+
+Se inicia index
